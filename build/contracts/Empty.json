@@ -1,0 +1,117 @@
+{
+  "contractName": "Empty",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.8+commit.23d335f2\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/C/Proyectos/KeepCodingEthereum/SoliditySamples/truffle/kc1jjtg/contracts/Empty.sol\":\"Empty\"},\"evmVersion\":\"petersburg\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/C/Proyectos/KeepCodingEthereum/SoliditySamples/truffle/kc1jjtg/contracts/Empty.sol\":{\"keccak256\":\"0xe27802b5da1b053c20211ade0fb92c4e01a31f0c6a4d59605a6461625c669b43\",\"urls\":[\"bzzr://92d7ba85d5432fa7a643e3ebce72b6b16f0817135087693876b8cadd3f34d92d\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603580601d6000396000f3fe6080604052600080fdfea165627a7a723058208b6708ccd23bb2819cc66c1ddb634825f95ab3676616ee849b0a77de5b78bb860029",
+  "deployedBytecode": "0x6080604052600080fdfea165627a7a723058208b6708ccd23bb2819cc66c1ddb634825f95ab3676616ee849b0a77de5b78bb860029",
+  "sourceMap": "27:21:0:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;27:21:0;;;;;;;",
+  "deployedSourceMap": "27:21:0:-;;;;;",
+  "source": "pragma solidity ^0.5.8;\r\n\r\ncontract Empty {\r\n\r\n}",
+  "sourcePath": "C:/Proyectos/KeepCodingEthereum/SoliditySamples/truffle/kc1jjtg/contracts/Empty.sol",
+  "ast": {
+    "absolutePath": "/C/Proyectos/KeepCodingEthereum/SoliditySamples/truffle/kc1jjtg/contracts/Empty.sol",
+    "exportedSymbols": {
+      "Empty": [
+        2
+      ]
+    },
+    "id": 3,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".8"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:0"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "Empty",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "27:21:0"
+      }
+    ],
+    "src": "0:48:0"
+  },
+  "legacyAST": {
+    "absolutePath": "/C/Proyectos/KeepCodingEthereum/SoliditySamples/truffle/kc1jjtg/contracts/Empty.sol",
+    "exportedSymbols": {
+      "Empty": [
+        2
+      ]
+    },
+    "id": 3,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".8"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:0"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "Empty",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "27:21:0"
+      }
+    ],
+    "src": "0:48:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.8+commit.23d335f2.Emscripten.clang"
+  },
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0x76971dcd65AeCa7ff92D3e07ab3b355253d2feaA",
+      "transactionHash": "0x3064a545633b700e68f3efebcba9878f837a39fb58069b071246827c2de6c9bb"
+    },
+    "1569048766930": {
+      "events": {},
+      "links": {},
+      "address": "0xd222a0877bC70921ceCA7085c48e7E9A394f2aEc",
+      "transactionHash": "0xd723a7eb2e6f14b682a87d8e4b9337dc1e4d222d340c4b703eb069e98ab0f7b8"
+    }
+  },
+  "schemaVersion": "3.0.16",
+  "updatedAt": "2019-10-13T16:57:04.364Z",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
